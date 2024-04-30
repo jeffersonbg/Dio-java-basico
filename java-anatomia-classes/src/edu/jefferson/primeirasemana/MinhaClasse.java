@@ -1,3 +1,5 @@
+package edu.jefferson.primeirasemana;
+
 public class MinhaClasse {
 
     public static void main(String[] args) {
@@ -27,14 +29,6 @@ public class MinhaClasse {
         String nome = nomeCompleto(primeiroNome, segundoNome);
 
         System.out.println(nome); */
-
-        int mediaFinal = 5;
-        if(mediaFinal < 6)
-            System.out.println("REPROVADO");
-        else if(mediaFinal == 6)
-            System.out.println("PROVA MINERVA");
-        else
-            System.out.println("APROVADO");
         
     }
 
