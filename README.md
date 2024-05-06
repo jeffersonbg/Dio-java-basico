@@ -9,3 +9,5 @@ Repositorio para curso java basico.
 ## Operadores
 
 ## Métodos
+
+## Escopo
