@@ -21,3 +21,5 @@ Repositorio para curso java basico.
 ## Estrutras Condicionais
 
 ## Estruturas de Repetição
+
+## Estruturas Excepcionais
